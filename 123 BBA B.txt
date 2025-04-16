@@ -1,0 +1,75 @@
+                                                                                           business analytics
+introduction:
+
+this presentation introduces the concept of business analytics,exploring its types,importance and applications across various industries.it will cover key components and statistical concepts essential for understanding and leveraging analytics in business today.
+
+definition:
+
+business analytics is the process of collecting , analysing, and interpreting data to inform business decision making.
+it involves the use of statistical analysis ,predictive modelling,and data visualisation techniques to identify trends and patterns.
+
+importance:
+                  *helps to gain a competitive advantage
+                  *understanding customer behaviour
+                  *make strategic decisions
+                  *improve operational efficiency
+                  *enhances customer satisfaction
+ 
+key components of business analytics:
+ 
+                  *it includes data management-quality data
+                  *statistical analysis-uncovers trends
+                  *data visualization - 
+                  *predictive modeling
+
+types of analytics:
+
+                  *descriptive analytics
+                  *predictive analytics
+                  *prescriptive analytics
+                  
+            Business intelligence:
+
+definition and concepts: it refers to the technology and strategies used by enterprises for data analysis of business information.it encompasses data mining,online analytics.
+
+    difference btwn BI and BA
+
+   the main difference between business intelligence and BA lies in their approach to data.BI primarily focuses on descriptive analysis,summarizing past events and performance through dashboards and reports.BA,however,goes    further by leveraging predictive and prescriptive analytics to forecast future trends and make actionable recommendations,influencing strategic planning and decision making
+
+business analysis in different industries:
+
+                  *health care industries
+                  *finance industry application: risk assessment;fraud detection;investment forecasting;customer relationship.
+                  *retail industry application:inventory management,customer behaviour analysis,and targeted marketing
+                  
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
